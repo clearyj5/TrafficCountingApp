@@ -1,0 +1,1 @@
+enum Vehicle { CAR, BICYCLE, BUS, ALL }
